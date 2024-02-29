@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Spotless-Hungry-Crocodile-React/static/css/main.3be7abc6.css",
-    "main.js": "/Spotless-Hungry-Crocodile-React/static/js/main.633645f8.js",
+    "main.js": "/Spotless-Hungry-Crocodile-React/static/js/main.b4ac273b.js",
     "index.html": "/Spotless-Hungry-Crocodile-React/index.html",
     "main.3be7abc6.css.map": "/Spotless-Hungry-Crocodile-React/static/css/main.3be7abc6.css.map",
-    "main.633645f8.js.map": "/Spotless-Hungry-Crocodile-React/static/js/main.633645f8.js.map"
+    "main.b4ac273b.js.map": "/Spotless-Hungry-Crocodile-React/static/js/main.b4ac273b.js.map"
   },
   "entrypoints": [
     "static/css/main.3be7abc6.css",
-    "static/js/main.633645f8.js"
+    "static/js/main.b4ac273b.js"
   ]
 }
